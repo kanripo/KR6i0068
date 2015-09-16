@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:57.382741
+#+DATE: 2015-08-30 20:08:58.672294
 #+TITLE: 大乘伽耶山頂經
 #+PROPERTY: CBETA_ID T14n0467
 #+PROPERTY: ID KR6i0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 467
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0068_T_000-0489c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0068_T_001-0489c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.467[Nos.464-466]¶
-
- 大乘伽耶山頂經¶
+No. 467 [Nos. 464-466]¶
+大乘伽耶山頂經¶
 ¶
 大唐天竺三藏菩提流志譯¶
 
