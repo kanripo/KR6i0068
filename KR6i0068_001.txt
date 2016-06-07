@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:58.672294
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:32
 #+TITLE: 大乘伽耶山頂經
 #+PROPERTY: CBETA_ID T14n0467
 #+PROPERTY: ID KR6i0068
